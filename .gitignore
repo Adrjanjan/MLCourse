@@ -1,0 +1,25 @@
+# IDEA Ignores #
+################
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+local.properties
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+*.zip
+
+# RSTUDIO FILES #
+#################
+*.Rhistory
+*.RData
+*.Rproj
+.Rproj.user/
